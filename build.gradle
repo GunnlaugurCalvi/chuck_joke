@@ -1,3 +1,4 @@
+web: build/install/gradle-getting-started/bin/gradle-getting-started
 apply plugin: 'java'
 apply plugin: 'application'
 
