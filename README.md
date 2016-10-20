@@ -1,6 +1,5 @@
 [![Build Status](your travis url
-for the repo here.png)](your travis url for the repo
-here)
+for the repo here.png)](https://travis-ci.org/GunnlaugurCalvi/chuck_joke)
 # chuck_joke
 (T-303-HUGB, Hugbúnaðarfræði, 2016-3)
 
